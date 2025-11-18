@@ -102,7 +102,8 @@ Organized layout with:
 
 This allows users to dynamically explore the data and extract insights instantly.
 
-##🚀 Tools Used
+##🚀 Tools Used 
+
 
  -Microsoft Excel
 
@@ -125,3 +126,14 @@ A fully functional, interactive Excel dashboard that highlights key sales insigh
  - Data Visualization
 
  - Dashboard Building
+
+##🏁This project showcases a complete Excel data analysis workflow, from raw data cleaning to building an interactive dashboard.
+
+ 📊 Final Dashboard Preview
+
+ - <img width="1792" height="1120" alt="Screenshot 2025-11-18 at 21 38 31" src="https://github.com/user-attachments/assets/f82a3782-345f-4ef5-bedf-8fe1376d4f3c" />
+
+  📈 Pivot Chart View
+
+  
+  <img width="1792" height="1120" alt="Screenshot 2025-11-18 at 21 37 30" src="https://github.com/user-attachments/assets/19e89bea-2a07-4bf9-9bd4-eda27e984355" />
